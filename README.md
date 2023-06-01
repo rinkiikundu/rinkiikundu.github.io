@@ -1,11 +1,11 @@
 
-# Assignment 2 - Portfolio Website
+
 
 - Author: Rinki Kundu
-- NUID: 002747230
+- https://rinkii.netlify.app/
 
 
-## Topic: To create an responsive portfolio website using HTML & CSS.
+## An responsive portfolio website using HTML & CSS.
 
 Features:
 - A modern design layout portfolio website with column structure
@@ -29,6 +29,7 @@ Common HTML Tags Used:
 9. section, span, fieldset
 10. h1, h2, h4 etc
 11 form
+
 ## Features Used:
 
 1. overflow property 
