@@ -1,44 +1,33 @@
+<div align="center">
+
+<h1>Personal Portfolio Website - v0.1.0</h1>
+
+<br/>
+
+</div>
 
 
+## Features 📋
 
-- Author: Rinki Kundu
-- https://rinkii.netlify.app/
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Typing animation\
+⚡️ Functional Contact Form
+
+## Sections 📚
+
+✔️ Home\
+✔️ About\
+✔️ Skills \
+✔️ Qualifications \
+✔️ Projects\
+✔️ Contact Me\
+✔️ Footer
 
 
-## An responsive portfolio website using HTML & CSS.
+## Tools Used 🛠️
 
-Features:
-- A modern design layout portfolio website with column structure
-- Styling used is external css
-- Added images & hover effects for a great UI/UX experience
-- Made responsive website to support mobile devices and tables (iPad)
-
-## *Creative Aspects of the Project*
-A pleasing and asthetic UI build with pure HTML5 & CSS3 for a smooth experience.
-
-Common HTML Tags Used:
-
-1. html
-2. head
-3. meta
-4. link
-5. body
-6. div
-7. i, a, p
-8. ul, li
-9. section, span, fieldset
-10. h1, h2, h4 etc
-11 form
-
-## Features Used:
-
-1. overflow property 
-2. Column structure layout
-3. telephone and mail to option for contact information
-4. professional certificaion gallery made and hover effects used
-5. website is made responsive for different devices
-6. Additional map feature added
-7. hover effects added on text
-8. typing animation 
-9. query form implemented
+- [**Font Awesome**](https://fontawesome.com/) - A font and icon toolkit based on CSS.
+- [**Iconscout**](https://iconscout.com/unicons) - Ready-to-use high-quality SVG icons.
+- [**Swiper.js**](https://swiperjs.com/) - JavaScript Library
 
